@@ -9,7 +9,7 @@ Java remake of Tank Trouble, a tank game where you drive in a maze and shoot bou
 Simply download the appropiate executable file.
 
 ## Advanced Install
-1. Download processing.org
+1. Download [processing.org](https://processing.org/download)
 2. Install the following processing.org libraries
    - [Dashed Lines](https://github.com/garciadelcastillo/-dashed-lines-for-processing-)
    - [Minim](code.compartmental.net/minim/)
