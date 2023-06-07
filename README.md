@@ -24,7 +24,8 @@ Slam your enemies with bullets covering a wide area. Shotgun bullets last less t
 ### Laser
 An instantaneous shot of pure energy that kills anything in its dotted path. Basically aimbot. 
 ### Missile
-> The missile knows where it is at all times. It knows this because it knows where it isn't. <
+> The missile knows where it is at all times. It knows this because it knows where it isn't.
+
 Automatically tracks the nearest tank (even if its the tank that fired it). Your only chance of survival is to outrun this beast. 
 ### Death Beam
 Miniaturized death star technology. This beam of plasma is naturally attracted to the metal of tanks and goes through everything in its path (including walls).
