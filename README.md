@@ -6,7 +6,7 @@ Java remake of Tank Trouble, a tank game where you drive in a maze and shoot bou
 ## Gameplay
 
 ## Quick Install
-Simply download the appropiate executable file.
+Simply download the appropiate executable file from the DropBox: https://www.dropbox.com/sh/j63a1sx30jh51xh/AAAYoazrkWGa5l2MNGriI3THa?dl=0
 
 ## Advanced Install
 1. Download [processing.org](https://processing.org/download)
