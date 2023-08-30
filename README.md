@@ -5,7 +5,9 @@ Java remake of Tank Trouble, a tank game where you drive in a maze and shoot bou
 
 ## Gameplay
 
-https://github.com/BANANAPEEL202/Tank-Trouble/assets/67805049/f5d2446a-74c1-46a6-b568-bd14a2d481f5
+https://github.com/BANANAPEEL202/Tank-Trouble/assets/67805049/95eba508-489f-48a6-8949-6018f9760583
+
+
 
 
 ## Quick Install
