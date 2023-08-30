@@ -1,5 +1,5 @@
 # Tank-Trouble
-![Tank Trouble Title](https://github.com/BANANAPEEL202/Tank-Trouble/assets/67805049/a1001e91-4759-4f05-936e-a58f1b742ebb)
+![Tank Trouble Title](https://github.com/BANANAPEEL202/Tank-Trouble/blob/main/Data/Tank%20Trouble%20Title.png)
 
 Java remake of Tank Trouble, a tank game where you drive in a maze and shoot bouncing bullets at your enemies. 
 
