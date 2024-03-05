@@ -1,12 +1,15 @@
 # Tank-Trouble
-![Tank Trouble Title](https://github.com/BANANAPEEL202/Tank-Trouble/assets/67805049/a1001e91-4759-4f05-936e-a58f1b742ebb)
+![Tank Trouble Title](https://github.com/BANANAPEEL202/Tank-Trouble/blob/main/Data/Tank%20Trouble%20Title.png)
 
 Java remake of Tank Trouble, a tank game where you drive in a maze and shoot bouncing bullets at your enemies. 
 
 ## Gameplay
 
+https://github.com/BANANAPEEL202/Tank-Trouble/assets/67805049/f880d349-05de-417c-8692-f7da6bbc3873
+
+
 ## Quick Install
-Simply download the appropiate executable file.
+Simply download the appropiate executable file from the [DropBox](https://www.dropbox.com/sh/0onrv3k1um7511t/AADLT1PtokcUSRhuifFaDK1pa?dl=0): https://www.dropbox.com/sh/0onrv3k1um7511t/AADLT1PtokcUSRhuifFaDK1pa?dl=0
 
 ## Advanced Install
 1. Download [processing.org](https://processing.org/download)
@@ -15,6 +18,12 @@ Simply download the appropiate executable file.
    - [Minim](code.compartmental.net/minim/)
 4. Download this repository and open it in processing
 
+## Features
+1. Play with 2-4 players
+2. Random map generation and power-ups create dynamic and unique gameplay.
+3. Immersive sound effects
+4. Easily runs at 60 FPS
+5. Keep track of each player's stats with the stats page in the bottom left corner
 
 ## Power Ups
 ### Machine Gun
@@ -22,12 +31,12 @@ Shoots a rapid volley of bullets at your enemies. Brrrt!
 ### Shotgun
 Slam your enemies with bullets covering a wide area. Shotgun bullets last less than regular bullets. 
 ### Laser
-An instantaneous shot of pure energy that kills anything in its dotted path. Basically aimbot. 
+An instantaneous shot of pure energy that kills anything in its dotted path. Basically aim-assist. 
 ### Missile
 > The missile knows where it is at all times. It knows this because it knows where it isn't.
 
-Automatically tracks the nearest tank (even if its the tank that fired it). Your only chance of survival is to outrun this beast. 
+Automatically tracks the nearest tank (even if it's the tank that fired it). Your only chance of survival is to outrun this marvel of technology. 
 ### Death Beam
-Miniaturized death star technology. This beam of plasma is naturally attracted to the metal of tanks and goes through everything in its path (including walls).
+Miniaturized Death Star technology. This beam of plasma is naturally attracted to metal and goes through everything in its path (including walls).
 ### Frag Bomb
 Click once to fire. Click twice to detonate. 
